@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.github.stephenott.bpmn.imageserver
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
