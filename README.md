@@ -1,18 +1,20 @@
 # BPMN to Image Server
 
 POST `locahost:8080` with multi-part upload.  Field name: `file`
+
 or
+
 POST `locahost:8080` with xml body
 
 
 Query Params:
 
-1. min_width: Int
-1. min_height: Int
-1. title: String
-1. no_title: Boolean
-1. no_footer: Boolean
-1. scale: Int
+1. `min_width`: Int
+1. `min_height`: Int
+1. `title`: String
+1. `no_title`: Boolean
+1. `no_footer`: Boolean
+1. `scale`: Int
 
 # Docker
 
